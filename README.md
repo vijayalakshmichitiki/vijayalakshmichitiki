@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Vijaya Lakshmi  
-### 📊 Aspiring Data Analyst | Data Enthusiast 
+### 📊 Aspiring Data Analyst | Data Scientist | Data Enthusiast 
 
 Turning raw data into meaningful insights 🚀  
 
@@ -11,13 +11,12 @@ Turning raw data into meaningful insights 🚀
 
 ## 🌙 About Me
 
-- 🔭 I’m currently working on **Data Analysis & Visualization Projects**
-- 👯 I’m looking to collaborate on **Data Analytics, BI, and beginner ML projects**
-- 🤝 I’m looking for help with **real-world datasets & case studies**
-- 🌱 I’m currently learning **Advanced SQL, Python for Data Analysis, Power BI (DAX)**
-- 💬 Ask me about **Excel, SQL, Python, Power BI, EDA**
-- ⚡ Fun fact: **I love converting messy data into clean dashboards**
-
+- 🔭 I’m currently working on **Data Analysis projects using Python, SQL, Excel, Power BI, and Tableau**
+- 👯 I’m looking to collaborate on **data analytics, business intelligence, and beginner-friendly machine learning projects**
+- 🤝 I’m looking for help with **real-world datasets, analytics case studies, and performance optimization**
+- 🌱 I’m currently learning **Advanced SQL, Python for Data Analysis, Power BI DAX, and basic Machine Learning**
+- 💬 Ask me about **Excel formulas, SQL queries, data cleaning, EDA, Power BI dashboards**
+- ⚡ Fun fact: **I enjoy turning messy data into clean, meaningful insights and visuals**
 ---
 
 ## 🌐 Socials
@@ -68,7 +67,7 @@ Turning raw data into meaningful insights 🚀
 - Created KPI dashboards  
 - Regional & product-wise insights  
 
-### 🤖 Basic Machine Learning Project
+### 🤖 Machine Learning Project
 **Tools:** Python  
 - Data preprocessing & feature engineering  
 - Built and evaluated ML models  
