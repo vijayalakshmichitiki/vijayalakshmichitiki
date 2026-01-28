@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Viji  
-### 📊 Aspiring Data Analyst | Data Enthusiast  
+# 👋 Hi, I'm Vijaya Lakshmi  
+### 📊 Aspiring Data Analyst | Data Enthusiast 
 
 Turning raw data into meaningful insights 🚀  
 
