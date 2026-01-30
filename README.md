@@ -20,15 +20,22 @@ Turning raw data into meaningful insights 🚀
 ---
 
 ## 🌐 Socials
+## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+<a href="https://www.linkedin.com/in/chitiki-vijaya-lakshmi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+
+<a href="https://chitiki-vijaya-lakshmi-4hw25s2.gamma.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:chitikivijayalakshmi@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
 
 ---
 
@@ -68,7 +75,7 @@ Turning raw data into meaningful insights 🚀
 - Regional & product-wise insights  
 
 ### 🤖 Machine Learning Project
-**Tools:** Python  
+**Tools:** Python 
 - Data preprocessing & feature engineering  
 - Built and evaluated ML models  
 
